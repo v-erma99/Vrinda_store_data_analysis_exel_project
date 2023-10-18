@@ -6,7 +6,7 @@ OBJECTIVE Vrinda store wants an annual sales report for 2022 so that Vrinda can 
 Sample Question
 
 1- Compare sales and Orders
-2- which month got the highest sales and orders
+2- which month got the highest sales and order
 3- Who purchased more Men or Women
 4- List the top 5 states that have the most sales
 5- Which channel contributes more
